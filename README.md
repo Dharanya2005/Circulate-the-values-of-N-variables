@@ -37,6 +37,7 @@ n=int(input())
 ```
 
 ## Output:
-![Alt text](<Screenshot 2023-11-28 210937.png>)
+![Screenshot 2023-11-28 210937](https://github.com/Dharanya2005/Circulate-the-values-of-N-variables/assets/145742468/2da1c0ea-8563-4375-a4ec-0961d1752e94)
+
 ## Result:
 Thus the python program for circulate the values of n variable is executed successfully.
